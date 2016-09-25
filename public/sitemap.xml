@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://sravyapullagura.me/</loc>
+    <lastmod>2016-08-30T10:15:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/third-one/</loc>
+    <lastmod>2016-08-30T10:15:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/glad-to-see-you/</loc>
+    <lastmod>2016-04-12T22:20:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/hello-world/</loc>
+    <lastmod>2016-04-12T22:01:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/blog/migrating-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/works/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sravyapullagura.me/skills/</loc>
+  </url>
+  
+</urlset>
